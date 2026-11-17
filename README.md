@@ -166,9 +166,11 @@ The free tier is genuinely useful — no artificial limits to push you into upgr
 
 ## Supported Ai Models
 
-**Free:** Claude Sonnet 4.5, Claude Opus 4, Claude Haiku 3.5
+**Free:** Anthropic Claude models (Sonnet, Opus and Haiku) with your own API key
 
-**Pro:** All Claude models + GPT-4o, GPT-4o-mini, o1
+**Pro:** All Claude models plus OpenAI GPT models
+
+The model dropdown in Settings lists the models your version supports.
 
 ---
 

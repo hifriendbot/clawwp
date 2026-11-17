@@ -71,7 +71,7 @@ ClawWP sends your chat messages to the Anthropic API to generate AI responses. T
 * Privacy Policy: [https://www.anthropic.com/policies/privacy](https://www.anthropic.com/policies/privacy)
 
 **OpenAI API** (Pro only)
-When configured with an OpenAI API key, ClawWP can send messages to OpenAI models (GPT-4o, etc.) as an alternative to Anthropic.
+When configured with an OpenAI API key, ClawWP can send messages to OpenAI GPT models as an alternative to Anthropic.
 
 * Service: [https://openai.com](https://openai.com)
 * Terms of Use: [https://openai.com/policies/terms-of-use](https://openai.com/policies/terms-of-use)
@@ -181,7 +181,7 @@ MCP (Model Context Protocol) is an open standard that lets AI agents connect to 
 
 = What AI models are supported? =
 
-The free version supports Anthropic Claude models (Sonnet 4.5, Opus 4, Haiku 3.5). ClawWP Pro adds OpenAI models (GPT-4o, GPT-4o-mini, o1).
+The free version supports Anthropic Claude models (Sonnet, Opus and Haiku). ClawWP Pro adds OpenAI GPT models. The model dropdown in Settings lists the models your version supports.
 
 = Can I set a spending limit? =
 
